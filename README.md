@@ -32,7 +32,7 @@ To view and interact with the dashboard:
 
 1. *Clone the repository:*  
     bash
-    git clone https://github.com/yourusername/powerbi-dashboard-project.git
+    git clone https://github.com/wandewise/powerbi-dashboard-project.git
     
 2. *Open the .pbix file:*  
     - Open *Power BI Desktop* (download [here](https://powerbi.microsoft.com/)).  
