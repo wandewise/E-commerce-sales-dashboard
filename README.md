@@ -4,7 +4,7 @@
 
 This repository contains a Power BI dashboard designed to provide insights into e-commerce sales performance. It tracks revenue trends, profit margins, and sales distribution across multiple dimensions like categories, days, and customer segments.  
 
----E-commerce Sales Dashboard](./ecommerce_dashboard_screenshot.png)
+---! [E-commerce Sales Dashboard](./ecommerce_dashboard_screenshot.png)
 
 ## 🚀 Features  
 
