@@ -57,7 +57,7 @@ If you’ve published this to Power BI Service:
 
 ## 📊 Data Sources  
 
-- *Sales Transactions Dataset:* Includes order details, revenue, and profit margins.  
+- *Kaggle.com  
 - *Calendar Dataset:* Supports time-based analysis with slicers for months and years.  
 
 Note: Sensitive or proprietary data has been removed from this repository.  
