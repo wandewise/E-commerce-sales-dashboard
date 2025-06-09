@@ -10,9 +10,9 @@ This repository contains a Power BI dashboard designed to provide insights into 
 
 - *Total Profit, Revenue, Orders, and Quantity Sold* with period-over-period comparisons.  
 - *Revenue Trend over Time* — visualize daily/weekly revenue fluctuations.  
-- *Category & Sub-Category Performance* — track top-performing product groups.  
-- *Sales by Days & Weekday/Weekend Patterns* — identify the best-performing days.  
-- *Top 10 Revenue by State and Customer* — gain location-based and customer insights.  
+- *Categories & Sub-Categories Performance* — track top-performing product groups.  
+- *Sales by Days & Weekdays/Weekends Patterns* — identify the best-performing days.  
+- *Top 10 Revenue by States and Customers* — gain location-based and customer insights.  
 - *Monthly Sales Target Progress* — gauge performance against sales goals.  
 
 ---
@@ -24,6 +24,7 @@ This repository contains a Power BI dashboard designed to provide insights into 
 | dashboard.pbix | Power BI Desktop file containing the full dashboard. |
 | README.md      | Project documentation (this file).                  |
 | csv files      | Raw Data
+| insights and Recommendation |
 ---
 
 ## 🔧 Getting Started  
@@ -66,8 +67,8 @@ Note: Sensitive or proprietary data has been removed from this repository.
 
 ## 📝 Project Insights  
 
-- The dashboard reveals sales patterns by time, location, and product category.  
-- Weekday vs. Weekend revenue insights help optimize marketing and sales strategies.  
+- The dashboard reveals sales patterns by time, locations, and product categories.  
+- Weekdays vs. Weekends revenue insights help optimize marketing and sales strategies.  
 - Top customers and high-performing regions can guide future sales efforts.  
 
 ---
